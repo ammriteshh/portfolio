@@ -48,10 +48,10 @@ export default function Education() {
 							</div>
 							<div>
 								<h2 className="font-semibold text-xl">
-									Universitas Negeri Malang
+									Lovely Professional University
 								</h2>
 								<h3 className="text-md font-normal mb-3">
-									S1 Teknik Informatika | Computer Science
+									Computer Science and Engineering
 								</h3>
 								<div className="gap-4 mb-4 flex items-stretch md:h-[300px] xl:h-[400px]">
 									<div className="flex-[1] transition-all duration-300 ease-in-out hover:flex-[3] group">
@@ -94,14 +94,14 @@ export default function Education() {
 									</p>
 								</div>
 								{/* add gpa in a style */}
-								<div className="flex flex-wrap gap-2 mt-4 text-sm">
+								{/* <div className="flex flex-wrap gap-2 mt-4 text-sm">
 									<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
 										GPA: 3.9 out of 4
 									</div>
-								</div>
+								</div> */}
 							</div>
 						</div>
-						<div className="flex flex-col justify-start px-5 md:px-0">
+						{/* <div className="flex flex-col justify-start px-5 md:px-0">
 							<h2 className="font-semibold text-xl mt-7">
 								Achievements
 							</h2>
@@ -191,7 +191,7 @@ export default function Education() {
 									</p>
 								</div>
 							</div>
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</section>

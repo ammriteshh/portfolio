@@ -125,16 +125,16 @@ export default function About() {
 						I&rsquo;m currently embarking on a fascinating journey
 						at{" "}
 						<span className="text-black font-medium">
-							Universitas Negeri Malang,
+							Lovely Professional University,
 						</span>{" "}
 						where I&rsquo;m pursuing my degree in{" "}
 						<span className="text-black font-medium">
-							Informatics Engineering.
+							Computer Science Engineering.
 						</span>{" "}
 						My passion for technology and coding knows no bounds.
 						Beyond the world of coding, I find myself deeply
-						immersed in the realms of design, Game Development, and
-						the fascinating universe of AI. I believe that in
+						immersed in the realms of Programming, Web Development, and
+						API Testing. I believe that in
 						today&rsquo;s fast-paced digital landscape, being a
 						<span className="text-black font-medium">
 							{" "}

@@ -128,7 +128,7 @@ const MyPage = () => {
 											width={400}
 											height={550}
 											placeholder="blur"
-											alt="Alvalens"
+											alt="Amritesh"
 											className="rounded-full w-full h-full object-cover"
 										/>
 									</div>

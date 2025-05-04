@@ -63,7 +63,7 @@ const MyPage = () => {
 											delay: 0.2,
 											type: "spring",
 										}}>
-										Alvalen Shafel
+										Amritesh Singh
 									</motion.h3>
 									<motion.h1
 										className="text-black text-5xl md:text-6xl lg:text-7xl 2xl:text-8xl font-bold my-2 md:my-5"
@@ -73,7 +73,7 @@ const MyPage = () => {
 											delay: 0.3,
 											type: "spring",
 										}}>
-										Full Stack Developer
+										Web Developer 
 									</motion.h1>
 									<motion.p
 										className="title text-md  2xl:text-xl mt-4 tracking-wider text-gray-500 leading-[1.7rem]"
@@ -83,10 +83,14 @@ const MyPage = () => {
 											delay: 0.4,
 											type: "spring",
 										}}>
-										A junior fullstack developer who currently focused on Web
-										Development. Other than that, I also interested in Software 
-										Testing. I love to learn new things and always open to new 
-										opportunities.
+										I’m a Undergraduate Student currently focused on Web Development. 
+										Alongside building user-friendly web applications, 
+										I also have a growing interest in Software Testing. 
+										I’m passionate about learning new technologies and always 
+										open to exploring fresh opportunities that help me grow both 
+										technically and professionally.
+
+
 									</motion.p>
 									<motion.div
 										className="buttons flex flex-row justify-center items-center space-x-4 mt-10"

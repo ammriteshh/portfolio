@@ -66,17 +66,18 @@ export default function Experience() {
 					<div className="font-medium text-lg">2023 - Present</div>
 					<div>
 						<h3 className="font-semibold text-xl text-black">
-							PT Hafdzamedia Teknologi Aplikasi
+							Lovely Professional University
 						</h3>
 						<h4 className=" font-light text-md mb-4">
-							Fullstack Web Developer | Part-time
+							Student
 						</h4>
 						<p className="text-justify">
-							Responsible for building and maintaining scalable
-							web applications using the latest technologies.
-							Collaborated with cross-functional teams to deliver
-							high-quality solutions that meet business
-							requirements.
+						I’m currently pursuing my studies at Lovely Professional University, 
+						where I’ve been growing both technically and personally. During my time here, 
+						I’ve worked on real-world projects, especially in web development and API testing. 
+						The university's diverse and collaborative environment has helped me build strong 
+						problem-solving skills and stay up-to-date with modern technologies. 
+						I'm passionate about learning and always eager to take on new challenges.
 						</p>
 						<div className="flex flex-wrap gap-2 mt-4 text-sm">
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
@@ -86,10 +87,10 @@ export default function Experience() {
 								Next.js
 							</div>
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								Laravel
+								C++
 							</div>
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								MySql
+								API Testing
 							</div>
 						</div>
 					</div>
@@ -99,16 +100,18 @@ export default function Experience() {
 					<div className="font-medium text-lg">2024 - Present</div>
 					<div>
 						<h3 className="font-semibold text-xl text-black">
-							Outlier
+							ShadowFox
 						</h3>
 						<h4 className=" font-light text-md mb-4">
-							AI Trainer | Freelance
+							Web Development Intern
 						</h4>
 						<p className="text-justify">
-							Crafted and refined chatbot prompts using prompt
-							engineering and RLHF techniques to improve the AI
-							responses in English and Indonesian, leading to more
-							accurate and contextually relevant interactions.
+						During my internship at Shadowfox, I worked on crafting and fine-tuning chatbot prompts using 
+						prompt engineering and reinforcement learning with human feedback (RLHF). 
+						My focus was on improving the quality and relevance of AI responses in both English and Indonesian. 
+						This experience helped me understand how thoughtful prompt design can lead to more natural 
+						and accurate conversations between users and AI. It also strengthened my ability to work in a fast-paced, 
+						innovative environment.
 						</p>
 
 						<div className="flex flex-wrap gap-2 mt-4 text-sm">
@@ -124,7 +127,7 @@ export default function Experience() {
 						</div>
 					</div>
 				</div>
-				<div className="grid gap-4 relative">
+				{/* <div className="grid gap-4 relative">
 					<div className="aspect-square w-5 bg-black rounded-full absolute left-0 translate-x-[-29.5px] z-10" />
 					<div className="font-medium text-lg">2023 - Present</div>
 					<div>
@@ -157,7 +160,7 @@ export default function Experience() {
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> */}
 			</Wrapper>
 		</>
 	);

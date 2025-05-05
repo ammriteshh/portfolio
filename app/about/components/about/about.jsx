@@ -114,14 +114,14 @@ export default function About() {
 						Hey there, I&rsquo;m Amritesh Singh, a
 						<span className="text-black font-medium">
 							{" "}
-							tech enthusiast
+							undergraduate student
 						</span>{" "}
 						and
 						<span className="text-black font-medium">
 							{" "}
-							aspiring Web Developer.
+							aspiring Software Developer.
 						</span>{" "}
-						Originating from Pasuruan, East Java, Indonesia,
+						Originating from Chandauli, Varanasi, Uttar Pradesh,
 						I&rsquo;m currently embarking on a fascinating journey
 						at{" "}
 						<span className="text-black font-medium">

@@ -116,10 +116,10 @@ export default function Experience() {
 
 						<div className="flex flex-wrap gap-2 mt-4 text-sm">
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								Generative AI
+								React JS
 							</div>
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								Prompt Engineering
+								JavaScript
 							</div>
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
 								Problem Solving

@@ -21,7 +21,7 @@ function Title() {
 
 						type: "spring",
 					}}>
-					Profesional Experience
+					Professional Experience
 				</motion.h1>
 			</div>
 		</div>
@@ -81,13 +81,13 @@ export default function Experience() {
 						</p>
 						<div className="flex flex-wrap gap-2 mt-4 text-sm">
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								React
+								Web Development
 							</div>
-							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
+							{/* <div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
 								Next.js
-							</div>
+							</div> */}
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-								C++
+								Data Structures
 							</div>
 							<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
 								API Testing

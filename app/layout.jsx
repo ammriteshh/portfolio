@@ -9,42 +9,42 @@ import Chat from "@/components/Chat";
 import ClientTopProgressBar from "@/components/ClientTopProgressBar";
 
 export const metadata = {
-    title: "Alvalens | Portofolio",
+    title: "Amritesh | Portofolio",
 
     description:
-		"My name is Alvalens, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
+		"My name is Amritesh, I'm a web developer and I'm passionate about it. I'm currently studying at Lovely Professional University.",
 
-    author: "Alvalen Shafelbilyunazra",
+    author: "Amritesh Singh",
     siteUrl: "https://www.alvalens.my.id",
-    applicationName: "Alvalens",
+    applicationName: "Amritesh",
 
     keywords: [
-		"alvalens",
-		"alvalen",
-		"alvalen shafel",
-		"shafel",
-		"alvalen shafelbilyunazra",
-		"alvalen shafel bilyunazra",
-		"bloodfallen",
-		"alvalen porto",
-		"alvalen um",
+		"amritesh",
+		"ammriteshh",
+		"amritesh singh",
+		"singh",
+		// "amritesh singh ",
+		// "alvalen shafel bilyunazra",
+		// "bloodfallen",
+		// "alvalen porto",
+		// "alvalen um",
 	],
 
     openGraph: {
 		type: "website",
 		url: "https://www.alvalens.my.id",
-		title: "Alvalens | Portofolio",
-		site_name: "Alvalens | Portofolio",
-		description: "My name is Alvalens, This is my portofolio website.",
+		title: "Amritesh | Portofolio",
+		site_name: "Amritesh | Portofolio",
+		description: "My name is Amritesh Singh, This is my portofolio website.",
 		width: 1200,
 		height: 630,
 		images: [
 			{
 				url: "/og-image-rev.png",
-				alt: "Alvalens Portofolio",
+				alt: "Amritesh Portofolio",
 			},
 		],
-		site_name: "Alvalens | Portofolio",
+		site_name: "Amritesh | Portofolio",
 	}
 };
 

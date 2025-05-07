@@ -100,7 +100,7 @@ export default function Page() {
 									className="w-full h-full shadow-lg">
 									<Image
 										src={ReactChat1}
-										alt="Alvalens"
+										alt="Amritesh"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"

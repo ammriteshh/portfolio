@@ -51,7 +51,7 @@ export default function Education() {
 									Lovely Professional University
 								</h2>
 								<h3 className="text-md font-normal mb-3">
-									Computer Science and Engineering
+									Computer Science Engineering
 								</h3>
 								<div className="gap-4 mb-4 flex items-stretch md:h-[300px] xl:h-[400px]">
 									<div className="flex-[1] transition-all duration-300 ease-in-out hover:flex-[3] group">

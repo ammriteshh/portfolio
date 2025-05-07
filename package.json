@@ -1,12 +1,12 @@
 {
-  "name": "alvalen-portfolio-website",
+  "name": "amritesh-portfolio-website",
   "author": {
-    "name": "Alvalen Shafelbilyunazra",
-    "email": "alvalen.shafel04@gmail.com",
+    "name": "Amritesh Singh",
+    "email": "amritesh.s628@gmail.com",
     "url": "https://alvalens.my.id" 
   },
   "license": "GPL-3.0",
-  "copyright": "Copyright (C) 2025 Alvalen Shafelbilyunazra",
+  "copyright": "Copyright (C) 2025 Amritesh Singh",
   "version": "1.0.0",
   "private": true,
   "scripts": {

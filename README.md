@@ -12,7 +12,6 @@ This is my debut project utilizing Next.js, a portfolio website featuring four p
 * **Smooth Page Transition:** Smooth page transition with prefetching feature of next js.
 * **Dynamic Data:** Read the project data from JSON file instead of directly implemented the data.
 * **Intelliticks chat widget:** Chat with owner of the web realtime.
-* **Spotify realtime widget:** Show what song youre playing in this web.
 
 ## Installation
 
@@ -62,12 +61,7 @@ This is my debut project utilizing Next.js, a portfolio website featuring four p
 7. Set env.local by copying env.example and fill the variable
 
    ```
-   NEXT_PUBLIC_SPOTIFY_CLIENT_ID=
-   NEXT_PUBLIC_SPOTIFY_CLIENT_SECRET=
-   NEXT_PUBLIC_SPOTIFY_REFRESH_TOKEN=
    ```
-
-   for further reference on how to setup spotify api you can check this [link ](https://leerob.io/blog/spotify-api-nextjs "leerob blog")
 
 ## Usage
 

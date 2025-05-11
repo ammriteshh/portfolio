@@ -1,4 +1,4 @@
-<!-- # Alvalens Porto 2
+<!-- # Amritesh Porto 2
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=aleph-discord-bot.visitor-badge)
 
@@ -23,12 +23,12 @@ This is my debut project utilizing Next.js, a portfolio website featuring four p
 2. Clone the repository:
 
    ```shell
-   git clone https://github.com/Alvalens/Alvalens-porto-2-nextJs.git
+   git clone https://github.com/Amritesh/Amritesh-porto-2-nextJs.git
    ```
 3. Navigate to the project directory:
 
    ```shell
-   cd Alvalens-porto-2-nextJs
+   cd Amritesh-porto-2-nextJs
    ```
 4. Install dependencies:
 
@@ -107,4 +107,4 @@ Contributions are welcome! If you find any issues or have suggestions, feel free
 
 This project is licensed under the GPL-3.0 License see the [LICENSE](LICENSE) file for details.
 
-Copyright (C) 2025 Alvalen Shafelbilyunazra -->
+Copyright (C) 2025 Amritesh Shafelbilyunazra -->

@@ -83,10 +83,10 @@ const MyPage = () => {
 											delay: 0.4,
 											type: "spring",
 										}}>
-										I'm a Undergraduate Student currently focused on Web Development. 
+										I&apos;m a Undergraduate Student currently focused on Web Development. 
 										Alongside building user-friendly web applications, 
 										I also have a growing interest in Software Testing. 
-										I'm passionate about learning new technologies and always 
+										I&apos;m passionate about learning new technologies and always 
 										open to exploring fresh opportunities that help me grow both 
 										technically and professionally.
 

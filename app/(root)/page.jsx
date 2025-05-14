@@ -226,7 +226,7 @@ const MyPage = () => {
 											src={ProjectAll}
 											layout="fill"
 											className="object-cover"
-											alt="Amritesh Setup"
+											alt="Amritesh"
 											placeholder="blur"
 										/>
 									</motion.div>
@@ -334,7 +334,8 @@ const MyPage = () => {
 											delay: 0.3,
 											type: "spring",
 										}}>
-										<a href="mailto:amritesh.s628@gmail.com?subject=Hello&body=Hello Amritesh,">
+										<a href="mailto:amritesh.s628@gmail.com?subject=Hello&body=Hello Amritesh,"
+											>
 											amritesh.s628@gmail.com
 										</a>
 									</motion.p>

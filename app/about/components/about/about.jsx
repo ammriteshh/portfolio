@@ -1,8 +1,8 @@
 import Image from "next/image";
 import { motion } from "framer-motion";
 import Me1 from "@/public/image/amritesh1.jpg";
-import Me2 from "@/public/image/amritesh2.jpg";
-import Me3 from "@/public/image/amrit1.jpeg";
+import Me2 from "@/public/image/amrit3.jpg";
+import Me3 from "@/public/image/amrit6.jpg";
 import Hr from "@/components/Hr";
 
 function Title() {
@@ -34,7 +34,7 @@ export default function About() {
 								className="w-full h-full">
 								<Image
 									src={Me1}
-									alt="Amritesh"
+									alt="Amrit"
 									layout="fill"
 									objectFit="cover"
 									placeholder="blur"
@@ -57,7 +57,7 @@ export default function About() {
 								className="w-full h-full">
 								<Image
 									src={Me2}
-									alt="Amritesh"
+									alt="Amrit"
 									layout="fill"
 									objectFit="cover"
 									placeholder="blur"
@@ -82,7 +82,7 @@ export default function About() {
 								className="w-full h-full">
 								<Image
 									src={Me3}
-									alt="Anritesh"
+									alt="Amrit"
 									layout="fill"
 									objectFit="cover"
 									placeholder="blur"

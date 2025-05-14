@@ -49,8 +49,8 @@ export default function Skills() {
 							<div className="font-medium">API Testing</div>
 						</div>
 						<div className="flex flex-col items-center gap-2">
-							<ActivityIcon className="w-12 h-12" />
-							<div className="font-medium">Programming</div>
+							<DataStructureIcon className="w-12 h-12" />
+							<div className="font-medium">Data Structures and Algorithms</div>
 						</div>
 						<div className="flex flex-col items-center gap-2">
 							<ChatIcon className="w-12 h-12" />
@@ -85,7 +85,7 @@ export default function Skills() {
 	);
 }
 
-function ActivityIcon(props) {
+function DataStructureIcon(props) {
 	return (
 		<svg
 			{...props}
@@ -98,10 +98,14 @@ function ActivityIcon(props) {
 			strokeWidth="2"
 			strokeLinecap="round"
 			strokeLinejoin="round">
-			<path d="M22 12h-2.48a2 2 0 0 0-1.93 1.46l-2.35 8.36a.25.25 0 0 1-.48 0L9.24 2.18a.25.25 0 0 0-.48 0l-2.35 8.36A2 2 0 0 1 4.49 12H2" />
+			<path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" />
+			<path d="M8 8h8" />
+			<path d="M8 12h8" />
+			<path d="M8 16h4" />
 		</svg>
 	);
 }
+
 function CodepenIcon(props) {
 	return (
 		<svg

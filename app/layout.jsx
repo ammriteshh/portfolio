@@ -8,14 +8,14 @@ import { Analytics } from "@vercel/analytics/react";
 import ClientTopProgressBar from "@/components/ClientTopProgressBar";
 
 export const metadata = {
-    title: "Amritesh | Portofolio",
+    title: "Amritesh Singh | Portofolio",
 
     description:
-		"My name is Amritesh, I'm a web developer and I'm passionate about it. I'm currently studying at Lovely Professional University.",
+		"My name is Amritesh Singh, I'm a web developer and I'm passionate about it. I'm currently studying at Lovely Professional University.",
 
     author: "Amritesh Singh",
     siteUrl: "https://www.alvalens.my.id",
-    applicationName: "Amritesh",
+    applicationName: "Amritesh Singh",
 
     keywords: [
 		"amritesh",
@@ -32,18 +32,18 @@ export const metadata = {
     openGraph: {
 		type: "website",
 		url: "https://www.alvalens.my.id",
-		title: "Amritesh | Portofolio",
-		site_name: "Amritesh | Portofolio",
+		title: "Amritesh Singh | Portofolio",
+		site_name: "Amritesh Singh | Portofolio",
 		description: "My name is Amritesh Singh, This is my portofolio website.",
 		width: 1200,
 		height: 630,
 		images: [
 			{
 				url: "/og-image-rev.png",
-				alt: "Amritesh Portofolio",
+				alt: "Amritesh Singh Portofolio",
 			},
 		],
-		site_name: "Amritesh | Portofolio",
+		site_name: "Amritesh Singh | Portofolio",
 	}
 };
 

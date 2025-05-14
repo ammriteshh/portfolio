@@ -97,7 +97,7 @@ export default function Experience() {
 				</div>
 				<div className="grid gap-4 relative">
 					<div className="aspect-square w-5 bg-black rounded-full absolute left-0 translate-x-[-29.5px] z-10" />
-					<div className="font-medium text-lg">2024 - Present</div>
+					<div className="font-medium text-lg">October 2024 - November 2024</div>
 					<div>
 						<h3 className="font-semibold text-xl text-black">
 							ShadowFox

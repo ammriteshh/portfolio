@@ -14,7 +14,7 @@ function Title() {
 			</div>
 		</div>
 	);
-}
+};
 
 export default function About() {
 	return (
